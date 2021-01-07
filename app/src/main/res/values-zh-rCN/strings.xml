@@ -79,7 +79,7 @@
     <string name="alert_title_encrypt">密码提示</string>
     <string name="alert_message_encrypt">便签访问密码设置成功， 密码是 %s</string>
     <string name="alert_message_encrypt_error">便签访问密码设置成功，两次密码输入不一致</string>
-    <string name="alert_message_decrypt">密码输入正确，即将进入便签</string>
+    <string name="alert_message_decrypt">密码输入正确，即将进入便-签</string>
     <string name="alert_message_decrypt_error">密码输入错误，请重新输入</string>
     <string name="alert_message_remove_encrypt">解除便签访问密码成功</string>
 
